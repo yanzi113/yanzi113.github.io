@@ -244,3 +244,11 @@ div#archive {
   background: rgba(25, 25, 25, 0.9) !important;
   color: #ffffff;
 }
+@import "//at.alicdn.com/t/font_2264842_b004iy0kk2b.css";
+svg.icon {
+  width: 1.6em;
+  height: 1.6em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}

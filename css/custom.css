@@ -1,4 +1,4 @@
-/* 页脚与头图透明 */
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>/* 页脚与头图透明 */
 #footer {
     background: transparent !important;
   }
@@ -247,8 +247,8 @@ div#archive {
 @import "//at.alicdn.com/t/font_2264842_b004iy0kk2b.css";
 /* 图标大小 */
 svg.icon {
-  width: 1.6em;
-  height: 1.6em;
+  width: 1.4em;
+  height: 1.4em;
   vertical-align: -0.15em;
   fill: currentColor;
   overflow: hidden;
@@ -261,11 +261,3 @@ svg.social_icon {
   fill: currentColor;
   overflow: hidden;
 }
-/* 菜单栏图标大小 */
- svg.menu_icon {
-  width: 1.5em;
-  height: 1.5em;
-  vertical-align: -0.15em;
-  fill: currentColor;
-  overflow: hidden;
-} 
